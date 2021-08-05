@@ -5,4 +5,4 @@ My task is to build the back end for an e-commerce site. I’ll have to configur
 
 Link to insomia video walkthrough below.
 
-https://drive.google.com/file/d/1HEyeasH1HsyFzKVxsW17WBIi3jvEvXQ4/view
+https://drive.google.com/file/d/1-9ZFOj2vrD_p4cP-JDpYeGK-it4nq2jl/view
