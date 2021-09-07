@@ -13,9 +13,9 @@ Category.init(
       primaryKey: true,
       autoIncrement: true
   },
-  category_title:{
+  category_name:{
     type: DataTypes.STRING, 
-    allowNull: false
+    allowNull: true
   },
 
   },
@@ -26,6 +26,6 @@ Category.init(
     underscored: true,
     modelName: 'category',
   }
-);
+);  
 
 module.exports = Category;
